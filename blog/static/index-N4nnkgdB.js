@@ -1,0 +1,1 @@
+import{_ as a}from"./index-DoL0ErsN.js";import{d as s,c as n,a as e,b as r,w as c,u,e as _,o as i}from"./index-CKdBsEQX.js";const x=s({__name:"index",setup(m){const t=_(),o=()=>{t.push("/404")};return(d,l)=>(i(),n("div",null,[e(" 这里是index "),r(u(a),{onClick:o},{default:c(()=>[e("Click me")]),_:1})]))}});export{x as default};

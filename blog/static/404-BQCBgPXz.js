@@ -1,0 +1,1 @@
+import{_ as n}from"./index-DoL0ErsN.js";import{d as r,c as s,a as t,b as u,w as c,u as a,F as m,e as _,o as f}from"./index-CKdBsEQX.js";const x=r({__name:"404",setup(p){const o=_();return(l,e)=>(f(),s(m,null,[t(" page not found "),u(a(n),{onClick:e[0]||(e[0]=d=>a(o).back())},{default:c(()=>[t(" 返回 ")]),_:1})],64))}});export{x as default};
